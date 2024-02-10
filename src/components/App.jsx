@@ -11,7 +11,7 @@ export function App() {
     <>
       <Profile userData={userData} />
       <FriendList friends={friends} />
-      <TransactionHistory items={transactions}/>
+      <TransactionHistory transactions={transactions}/>
     </>
   )
 }
