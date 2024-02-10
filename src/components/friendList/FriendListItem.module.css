@@ -1,0 +1,16 @@
+.onlineStat {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.online {
+    font-weight: 500;
+    font-size: 20px;
+    color: rgb(38, 201, 38);
+}
+
+.offline {
+    font-weight: 500;
+    font-size: 20px;
+    color: red;
+}

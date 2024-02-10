@@ -1,0 +1,18 @@
+.friendList {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+
+.friendCard {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
